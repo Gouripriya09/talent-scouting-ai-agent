@@ -121,8 +121,7 @@ OPENROUTER_MODEL=mistralai/mistral-7b-instruct
 ## Demo
 
 - Demo Video: [Add demo video link](https://example.com/demo-video)
-- Live App: [Add deployed app link](https://example.com/live-app)
-
+- 🌐 Live App: https://talent-scouting-ai-agent-zxyu4b2ml8krmgmpgqkvol.streamlit.app/
 ## Why This Matters
 
 - Reduces manual recruiter screening effort
