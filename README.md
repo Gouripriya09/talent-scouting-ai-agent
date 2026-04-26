@@ -120,7 +120,7 @@ OPENROUTER_MODEL=mistralai/mistral-7b-instruct
 
 ## Demo
 
-- Demo Video: [Add demo video link](https://example.com/demo-video)
+- Demo Video: https://drive.google.com/file/d/175q-Q49j9PbLvgIWx9NeJvwhLy6zUkWw/view?usp=drive_link
 - 🌐 Live App: https://talent-scouting-ai-agent-zxyu4b2ml8krmgmpgqkvol.streamlit.app/
 ## Why This Matters
 
