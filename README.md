@@ -122,6 +122,7 @@ OPENROUTER_MODEL=mistralai/mistral-7b-instruct
 
 - Demo Video: https://drive.google.com/file/d/175q-Q49j9PbLvgIWx9NeJvwhLy6zUkWw/view?usp=drive_link
 - 🌐 Live App: https://talent-scouting-ai-agent-zxyu4b2ml8krmgmpgqkvol.streamlit.app/
+- Detailed Architecture And Scoring Logic: View PDF  https://drive.google.com/file/d/1zyFCdbFShLQ5430COdd9SmO-9dFPLbs8/view?usp=drive_link
 ## Why This Matters
 
 - Reduces manual recruiter screening effort
