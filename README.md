@@ -53,18 +53,25 @@ This agent automates recruiter decision support in a clear pipeline:
 ```text
 Job Description Input
         ↓
-Skill Extraction (AI)
+JD Parsing & Skill Extraction
         ↓
-Candidate Selection
+Candidate Dataset
         ↓
 Evaluation Engine
-  - Skill Match
-  - AI Evaluation
-  - Conversation
+   ↙              ↘
+Rule-Based       LLM-Based
+Matching         Reasoning
+   ↓                ↓
+Match Score     Interest Score
         ↓
-Scoring System
+Score Fusion Engine
+        ↓
+Final Score & Ranking
         ↓
 Explainability Layer
+   ↙              ↘
+Conversation      Outreach Email
+Simulation        Generation
         ↓
 Streamlit UI
 ```
